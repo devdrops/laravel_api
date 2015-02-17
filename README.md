@@ -1,7 +1,7 @@
 # API REST com Laravel 4.2
 Estudo sobre API REST com Laravel. Com base no screencast [API REST com Laravel](https://www.youtube.com/watch?v=u6a1G7LpWFU) 
 Screencast criado por [Fábio Vedovelli](https://twitter.com/vedovelli)
-# Configuração das tabelas no bando de dados
+# Configuração das tabelas no banco de dados
 Com o terminal vá até a pasta raiz do projeto e utilize o comando:
 ```console
 php artisan migrate
